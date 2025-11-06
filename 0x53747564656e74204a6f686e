@@ -1,0 +1,5 @@
+client error (Connect)
+
+Caused by:
+    0: dns error: failed to lookup address information: Temporary failure in name resolution
+    1: failed to lookup address information: Temporary failure in name resolution
